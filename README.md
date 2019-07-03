@@ -13,4 +13,19 @@ An open source project aiming for finding the best facial masks for developers o
 - mask.md # 面膜分类，基础知识介绍
 - mask_brand.md # 面膜品牌分类，介绍
 
+## 目前等待被测试产品
+- Mediheal 美迪惠儿韩国可莱丝补水面膜
+- 原辰面膜
+- Natural Republic
+- 日系豆乳面膜
+- 大米面膜
+- 台湾美白日记
+- SKII 3D面膜
+- La Mer 【贵到让你不想熬夜】
+- 初曦面膜
+- Fancl
+- 酒粕面膜
+- OLAY酵母熬夜霜
+- 精美肌面膜
+
 
