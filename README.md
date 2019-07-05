@@ -14,7 +14,7 @@ An open source project aiming for finding the best facial masks for developers o
 - mask_brand.md # 面膜品牌分类，介绍
 
 ## 目前等待被测试产品
-- Mediheal 美迪惠儿韩国可莱丝补水面膜
+- Mediheal 美迪惠儿韩国可莱丝补水面膜 【已到货】
 - 原辰面膜
 - Natural Republic
 - 日系豆乳面膜
